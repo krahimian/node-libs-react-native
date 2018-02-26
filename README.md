@@ -55,7 +55,7 @@ The following are the module implementations provided by this package. Some modu
 | cluster | --- | --- |
 | console | [Raynos/console-browserify](https://github.com/Raynos/console-browserify) | [console.js](./mock/console.js) |
 | constants | [juliangruber/constants-browserify](https://github.com/juliangruber/constants-browserify) | --- |
-| crypto | [mvayngrib/react-native-crypto](https://github.com/mvayngrib/react-native-crypto) | --- |
+| crypto | [tradle/react-native-crypto](https://github.com/tradle/react-native-crypto) | --- |
 | dgram | --- | --- |
 | dns | --- | [dns.js](./mock/dns.js) |
 | domain | [bevry/domain-browser](https://github.com/bevry/domain-browser) | --- |
